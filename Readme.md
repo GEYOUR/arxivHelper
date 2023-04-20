@@ -1,3 +1,5 @@
+<img src="./src/icon_arxivhelper.jpg" title="" alt="icon" width="159">
+
 # arxivHelper
 
 arxivHelper is a Python program that helps organize files for latex research projects. It searches for all pdf files within a given directory path and its subdirectories, and moves them to the given directory path while prefixing their filenames with the directory names leading to the given path.
@@ -13,5 +15,3 @@ python main.py
 ```
 
 The program is currently in the development stage.
-
-
